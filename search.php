@@ -13,4 +13,5 @@ get_header();
 		<?php get_template_part( 'template-parts/posts/layout', get_theme_mod('blog_layout','right-sidebar') ); ?>
 </div><!-- .page-wrapper .blog-wrapper -->
 
+
 <?php get_footer(); ?>
